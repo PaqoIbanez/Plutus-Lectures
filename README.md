@@ -1,4 +1,4 @@
-# Plutus by Manuel Chakravarty
+# Plutus conference by Manuel Chakravarty
 
 [![Lecture #1](https://yt-embed.herokuapp.com/embed?v=96o8G5dVCaM)](https://youtu.be/_zr3W8cgzIQ)
 
