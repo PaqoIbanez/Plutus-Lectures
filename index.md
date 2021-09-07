@@ -4,10 +4,9 @@
 
 ## Lectures
 
-### Lecture #1
-
 <iframe width="720" height="405" src="https://www.youtube.com/embed/_zr3W8cgzIQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
+- ### Lecture #1
   - Welcome.
   - The (E)UTxO-model.
   - Building the example code.
@@ -15,8 +14,6 @@
   - A brief look at the auction code.
   - Running an example auction contract on a local Playground.
   - Homework.
-
-
 
 ### Lecture #2
 
