@@ -1,6 +1,6 @@
 ## Plutus Pioneer Program - Iteration #2 Playlist
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/_zr3W8cgzIQ?list=PLK8ah7DzglhgV7W6BHcoIzRArjzs_UuSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" showinfo="1" ></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/_zr3W8cgzIQ?list=PLK8ah7DzglhgV7W6BHcoIzRArjzs_UuSY&showinfo=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" ></iframe>
 
 ## Plutus by Manuel Chakravarty
 
