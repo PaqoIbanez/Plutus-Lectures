@@ -1,6 +1,6 @@
 ## Plutus Pioneer Program - Iteration #2 Playlist 3
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/_zr3W8cgzIQ&list=PLK8ah7DzglhgV7W6BHcoIzRArjzs_UuSY&showinfo=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" ></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/_zr3W8cgzIQ?list=PLK8ah7DzglhgV7W6BHcoIzRArjzs_UuSY&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" ></iframe>
 
 ## Plutus Pioneer Program - Iteration #2 Playlist 2
 
