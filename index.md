@@ -1,5 +1,9 @@
 ## Plutus by Manuel Chakravarty
 
+<iframe width="1019" height="573" src="https://www.youtube.com/embed/_zr3W8cgzIQ?list=PLK8ah7DzglhgV7W6BHcoIzRArjzs_UuSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Plutus by Manuel Chakravarty
+
 <iframe width="720" height="405" src="https://www.youtube.com/embed/96o8G5dVCaM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ## Lectures
