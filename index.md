@@ -1,7 +1,5 @@
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-
 <div class="elfsight-app-cf79af9b-733d-4cae-bf6f-985073c0552d"></div>
-
 ## Plutus by Manuel Chakravarty
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/96o8G5dVCaM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
