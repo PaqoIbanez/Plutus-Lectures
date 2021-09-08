@@ -1,14 +1,6 @@
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 
-<div class="elfsight-app-c60e6a21-8078-41fa-b335-16279dffdde9"></div>
-
-## Plutus Pioneer Program - Iteration #2 Playlist 3
-
-<iframe width="720" height="405" src="https://www.youtube.com/embed/_zr3W8cgzIQ?list=PLK8ah7DzglhgV7W6BHcoIzRArjzs_UuSY&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" ></iframe>
-
-## Plutus Pioneer Program - Iteration #2 Playlist 2
-
-<iframe width="720" height="405" src="https://www.youtube.com/embed/_zr3W8cgzIQ?list=PLK8ah7DzglhgV7W6BHcoIzRArjzs_UuSY&showinfo=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" ></iframe>
+<div class="elfsight-app-cf79af9b-733d-4cae-bf6f-985073c0552d"></div>
 
 ## Plutus by Manuel Chakravarty
 
